@@ -1,3 +1,6 @@
 [submodule "2nd_grade_winter(2023_winter)/OS/xv6_stride_winter"]
 	path = 2nd_grade_winter(2023_winter)/OS/xv6_stride_winter
 	url = https://github.com/hong-sile/xv6-stride-scheduler.git
+[submodule "2nd_grade_winter(2023_winter)/OS/mmu"]
+	path = 2nd_grade_winter(2023_winter)/OS/mmu
+	url = https://github.com/hong-sile/mmu.git
