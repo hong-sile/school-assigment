@@ -4,3 +4,6 @@
 [submodule "2nd_grade_winter(2023_winter)/OS/mmu"]
 	path = 2nd_grade_winter(2023_winter)/OS/mmu
 	url = https://github.com/hong-sile/mmu.git
+[submodule "3rd_grade_spring(2024_spring)/database_system"]
+	path = 3rd_grade_spring(2024_spring)/database_system
+	url = https://github.com/hong-sile/hong-dbms.git
